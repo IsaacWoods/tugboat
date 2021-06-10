@@ -1,0 +1,9 @@
+[package]
+name = "tugboat"
+version = "0.0.0"
+authors = ["Isaac Woods"]
+description = "Build tool for Rust operating systems"
+edition = "2018"
+license = "MIT"
+
+[dependencies]
